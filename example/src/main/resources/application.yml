@@ -1,0 +1,6 @@
+easy-sequence:
+  enabled: true #default true
+  category: false #default false
+  mode: single #default redis [single]
+  type: com.maketubo.sequence.config.DefaultSequence
+
